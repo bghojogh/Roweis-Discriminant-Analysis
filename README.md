@@ -11,10 +11,11 @@ This is the code for the following papers:
 
 This code is for **Roweis Discriminant Analysis (RDA)** and **Kernel Roweis Discriminant Analysis (Kernel RDA)**. 
 
-## Special Cases
+## Special Cases and Roweis Map
 
 The special cases of RDA are **Fisher Discriminant Analysis (FDA), Principal Component Analysis (PCA), Supervised Principal Component Analysis (SPCA), and Double Supervised Discriminant Analysis (DSDA)**. 
-The special cases of Kernel RDA are **Kernel FDA, Kernel PCA, Kernel SPCA, and Kernel DSDA**.
+The special cases of Kernel RDA are **Kernel FDA, Kernel PCA, Kernel SPCA, and Kernel DSDA**. 
+Here is the **Roweis Map** in the input and feature spaces:
 
 ![Roweis_map](https://user-images.githubusercontent.com/66282117/83956306-87e13e80-a82a-11ea-92a9-21c8ea938486.png)
 
