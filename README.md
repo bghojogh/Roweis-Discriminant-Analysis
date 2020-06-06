@@ -1,5 +1,7 @@
 # Roweis Discriminant Analysis
 
+## Papers
+
 This is the code for the following papers:
 
 - Benyamin Ghojogh, Fakhri Karray, and Mark Crowley. "**Roweis Discriminant Analysis: A Generalized Subspace Learning Method**" arXiv preprint arXiv:1910.05437 (2019).
