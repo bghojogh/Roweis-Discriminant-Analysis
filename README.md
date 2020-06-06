@@ -7,4 +7,4 @@ This is the code for the following papers:
 
 - Benyamin Ghojogh, Fakhri Karray, and Mark Crowley. "**Generalized subspace learning by Roweis discriminant analysis**" in 17th International  Conference on Image Analysis and Recognition. Springer, 2020.
 
-
+This code is for **Roweis Discriminant Analysis (RDA)** and **Kernel Roweis Discriminant Analysis (Kernel RDA)**. 
