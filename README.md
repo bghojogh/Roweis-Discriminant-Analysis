@@ -18,15 +18,11 @@ The special cases of Kernel RDA are **Kernel FDA, Kernel PCA, Kernel SPCA, and K
 
 ![Roweis_map](https://user-images.githubusercontent.com/66282117/83956306-87e13e80-a82a-11ea-92a9-21c8ea938486.png)
 
-<br>
-
 ## Discrimination of Nonlinear Classes
 
 Here are some examples of discrimination of nonlinear classes using kernel RDA:
 
 ![synthetic_projections](https://user-images.githubusercontent.com/66282117/83956364-3eddba00-a82b-11ea-9a55-4aac414ca0f9.png)
-
-<br>
 
 ## Roweisfaces
 
