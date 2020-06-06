@@ -18,6 +18,8 @@ The special cases of Kernel RDA are **Kernel FDA, Kernel PCA, Kernel SPCA, and K
 
 Here are some examples of discrimination of nonlinear classes using kernel RDA:
 
+![synthetic_projections](https://user-images.githubusercontent.com/66282117/83956364-3eddba00-a82b-11ea-9a55-4aac414ca0f9.png)
+
 <br>
 
 This paper is also for **Roweisfaces** and **Kernel Roweisfaces** generalizing **Fisherfaces, eigenfaces, supervised eigenfaces, kernel Fisherfaces, kernel eigenfaces, and kernel supervised eigenfaces**. 
