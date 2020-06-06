@@ -14,6 +14,8 @@ The special cases of Kernel RDA are **Kernel FDA, Kernel PCA, Kernel SPCA, and K
 
 ![Roweis_map](https://user-images.githubusercontent.com/66282117/83956306-87e13e80-a82a-11ea-92a9-21c8ea938486.png)
 
+<br>
+
 This paper is also for **Roweisfaces** and **Kernel Roweisfaces** generalizing **Fisherfaces, eigenfaces, supervised eigenfaces, kernel Fisherfaces, kernel eigenfaces, and kernel supervised eigenfaces**. 
 
 ![Roweisfaces](https://user-images.githubusercontent.com/66282117/83956314-acd5b180-a82a-11ea-8597-3bc2ceca98b5.png)
